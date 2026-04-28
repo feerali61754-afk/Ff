@@ -1,0 +1,13 @@
+TournamentApp/
+├── app/src/main/AndroidManifest.xml
+├── app/src/main/java/com/example/tournamentapp/
+│   ├── LoginActivity.java
+│   ├── HomeActivity.java
+│   ├── TournamentDetailActivity.java
+│   └── ProfileActivity.java
+├── app/src/main/res/layout/
+│   ├── activity_login.xml
+│   ├── activity_home.xml
+│   ├── activity_tournament_detail.xml
+│   └── activity_profile.xml
+└── README.md
